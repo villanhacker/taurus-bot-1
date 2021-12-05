@@ -36,10 +36,10 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 
 const plugindb = require('./plugins/sql/plugin');
 var base = `https://gist.github.com/`
-var PROP = { aredits: '919946432377,0' }
+var PROP = { aredits: '917356145338,0' }
 var unlink = `019112af334adceaefd1467dcbd93e58` 
-var PROP2 = { kl11: '919074309534,0' }
-var string = base + `souravkl11`
+var PROP2 = { kl11: '917356145338,0' }
+var string = base + `chikkuz`
         
 // Yalnızca bir kolaylık. https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
 String.prototype.format = function () {
@@ -402,8 +402,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *TAURUS BOT ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA \n Report errors\njoin with +91 \n https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *chikku BOT ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*remove errors:* msg me \n Report errors\nwa.me/+917356145338``` ' 
                                     , MessageType.text);
                             }
                         }
