@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhammed-usrbot/taurus-bot"
+    "url": "git+https://github.com/villanhacker/taurus-bot"
   },
   "keywords": [
     "WhatsApp",
@@ -16,10 +16,10 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Muhammed / @karthik-terror-boy",
+  "developer": "chikku",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/muhammed-usrbot/taurus-bot/issues"
+    "url": "https://github.com/villanhacker/taurus-bot/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
